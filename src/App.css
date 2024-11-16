@@ -1,0 +1,9 @@
+@import url('./styles/reset.css');
+@import url('./styles/extra.css');
+@import url('./styles/scroll.css');
+@import url('./components/Header/Header.css');
+@import url('./components/InputRangeSlider/InputRangeSlider.css');
+@import url('./components/MapFragment/MapFragment.css');
+@import url('./components/Kings/Kings.css');
+@import url('./components/Event/Event.css');
+@import url('./components/Events/Events.css');

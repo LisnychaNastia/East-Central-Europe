@@ -1,0 +1,14 @@
+.event__date {
+  font-size: 32px;
+  font-weight: 500;
+}
+
+.event__info {
+  font-size: 24px;
+  width: 85%;
+  margin: 0 auto;
+}
+
+.event {
+  margin-bottom: 20px;
+}
