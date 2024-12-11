@@ -1,7 +1,7 @@
 {
   "name": "europe",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -17,7 +17,7 @@
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "http://LisnychaNastia.github.io/East-Central-Europe",
+  "homepage": "http://lisnychanastia.github.io/East-Central-Europe",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
